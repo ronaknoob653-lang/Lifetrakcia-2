@@ -1,3 +1,4 @@
-name = "lifetrakcia"
+
+name = 'lifetrakcia-2-b'
 pages_build_output_dir = "./public"
 compatibility_date = "2026-10-20"
