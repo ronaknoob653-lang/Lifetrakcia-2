@@ -1,0 +1,3 @@
+name = "lifetrakcia"
+pages_build_output_dir = "./public"
+compatibility_date = "2026-10-20"
